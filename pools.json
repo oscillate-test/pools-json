@@ -1,0 +1,38 @@
+[
+	{
+		"name": "TwistedNetworks",
+		"owner": "TwixtedChaox#9638",
+		"url": "http://keg-pool.twisted-networks.com",
+		"api-endpoints": {
+			"stats": "http://keg-pool.twisted-networks.com:8117/stats",
+			"api": "http://keg-pool.twisted-networks.com:8117/json_rpc"
+		}
+	},
+	{
+		"name": "Mining Garden",
+		"owner": "dela - (mining.garden)#5123",
+		"url": "http://keg.mining.garden",
+		"endpoints": {
+			"stats": "https://keg.mining.garden:8117/stats",
+			"api": "https://keg.mining.garden:8117/json_rpc"
+		}
+	},
+	{
+		"name": "Cryptonote Club",
+		"owner": "Igor#3644",
+		"url": "https://keg.cryptonote.club",
+		"endpoints": {
+			"stats": null,
+			"api": null
+		}
+	},
+	{
+		"name": "DKC HVAC",
+		"owner": "def#4726",
+		"url": "http://dkc-hvac.com",
+		"endpoints": {
+			"stats": "http://dkc-hvac.com:8117/stats",
+			"api": "https://keg.mining.garden:8117/json_rpc"
+		}
+	}
+]
