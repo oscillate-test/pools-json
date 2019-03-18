@@ -32,7 +32,7 @@
 		"url": "http://dkc-hvac.com",
 		"endpoints": {
 			"stats": "http://dkc-hvac.com:8117/stats",
-			"api": "https://keg.mining.garden:8117/json_rpc"
+			"api": "https://dkc-hvac.com:8117/json_rpc"
 		}
 	}
 ]
