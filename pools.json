@@ -1,20 +1,20 @@
 [
 	{
-		"name": "TwistedNetworks",
+		"name": "Twisted Networks",
 		"owner": "TwixtedChaox#9638",
-		"url": "http://keg-pool.twisted-networks.com",
+		"url": "https://keg-pool.twisted-networks.com",
 		"api-endpoints": {
-			"stats": "http://keg-pool.twisted-networks.com:8117/stats",
-			"api": "http://keg-pool.twisted-networks.com:8117/json_rpc"
+			"stats": "https://keg-pool.twisted-networks.com:8117/stats",
+			"api": "https://keg-pool.twisted-networks.com:8117"
 		}
 	},
 	{
 		"name": "Mining Garden",
 		"owner": "dela - (mining.garden)#5123",
-		"url": "http://keg.mining.garden",
+		"url": "https://keg.mining.garden",
 		"endpoints": {
 			"stats": "https://keg.mining.garden:8117/stats",
-			"api": "https://keg.mining.garden:8117/json_rpc"
+			"api": "https://keg.mining.garden:8117"
 		}
 	},
 	{
@@ -22,8 +22,8 @@
 		"owner": "Igor#3644",
 		"url": "https://keg.cryptonote.club",
 		"endpoints": {
-			"stats": null,
-			"api": null
+			"stats": "https://keg.cryptonote.club:8199/stats",
+			"api": "https://keg.cryptonote.club:8199"
 		}
 	},
 	{
@@ -32,7 +32,7 @@
 		"url": "http://dkc-hvac.com",
 		"endpoints": {
 			"stats": "http://dkc-hvac.com:8117/stats",
-			"api": "https://dkc-hvac.com:8117/json_rpc"
+			"api": "https://dkc-hvac.com:8117"
 		}
 	}
 ]
