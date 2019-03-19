@@ -1,2 +1,2 @@
 # pools-json
-This repository contains all KegCoin Gold pools in the json format.
+This repository contains all Oscillate pools in the json format.
